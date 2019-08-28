@@ -1,0 +1,37 @@
+
+
+.form_log
+{
+    width:50%;
+    margin: 100px auto;
+}
+
+.inp{
+    margin: 11px 180px
+}
+
+.inp p{
+    margin:0px;
+}
+
+.inp input[type="text"],input[type="password"]
+{
+    outline: none;
+    padding:4px 8px;
+    border:1px solid gray;
+    border-radius: 3px;
+}
+
+.inp button
+{
+    border:none;
+    background:#007dc5;
+    padding:4px 9px;
+    border-radius: 3px;
+    color:white;
+}
+.titl
+{
+    font-size: 18px;
+    font-weight: 600;
+}
